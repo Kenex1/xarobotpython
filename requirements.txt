@@ -1,4 +1,0 @@
-discord.py
-yandex-music
-PyNaCl
-discord.py[voice]
